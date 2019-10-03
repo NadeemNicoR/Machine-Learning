@@ -1,2 +1,2 @@
 # MACHINE LEARNING
-###  This Repository contains a bunch of programming assignments that i have solved in my university, online courses including my DataScience projects
+###  This contains a bunch of programming assignments that i have solved in my university, online courses including my DataScience projects (This repository also contains a few Machine learning programming assignments that i have completed in my university (DUE TO VARIOUS REASONS PROBABLY INCLUDING LEGAL REASONS I WILL NOT BE ABLE TO MAKE THIS REPOSITORY PUBLIC) If you are a recruiter and if you are willing to view my work on this repository kindly drop an email to nadeemitachi@gmail.com. Thanks)
